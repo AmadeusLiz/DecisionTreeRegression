@@ -1,0 +1,11 @@
+﻿age,job,marital,education,default,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,deposit
+40,admin.,married,secondary,no,yes,no,telephone,5,may,1042,1,-1,0,unknown,yes
+35,technician,single,tertiary,no,yes,yes,telephone,10,may,1332,5,180,1,other,yes
+28,technician,single,tertiary,yes,no,no,cellular,12,may,1202,1,100,0,unknown,no
+29,management,single,tertiary,no,no,no,cellular,12,may,1112,1,60,2,unknown,no
+32,admin.,married,secondary,yes,yes,no,cellular,12,april,227,4,40,0,success,no
+41,admin.,married,secondary,no,no,yes,cellular,12,april,860,1,49,0,success,yes
+50,technician,divorced,tertiary,no,yes,yes,telephone,5,april,1550,4,49,0,success,no
+47,management,divorced,tertiary,yes,no,no,cellular,5,june,670,2,49,11,success,no
+25,services,single,tertiary,yes,no,no,cellular,20,june,133,4,49,0,other,yes
+33,services,married,secondary,no,no,no,cellular,20,june,230,2,40,0,other,yes
